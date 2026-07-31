@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Fernanda Alves!
 
-## 📊 Analista Financeira | Em transição para Análise de Dados com Python
+## 📊 Analista Financeira | Finanças, Automação e Análise de Dados com Python
 
 Transformando mais de 12 anos de experiência em Finanças, Administração e Gestão em decisões orientadas por dados.
 
