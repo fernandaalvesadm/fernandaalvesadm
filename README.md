@@ -2,37 +2,35 @@
 
 ## 📊 Analista Financeira | Finanças, Automação e Análise de Dados com Python
 
-Transformando mais de 12 anos de experiência em Finanças, Administração e Gestão em decisões orientadas por dados.
+Transformando mais de 12 anos de experiência em Finanças, Administração e Gestão em soluções orientadas por dados.
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
-Sou formada em **Administração** e pós-graduada em **Custos e Finanças**.
+Sou Bacharel em Administração e pós-graduada em Custos e Finanças e em Controladoria e Finanças.
 
-Durante minha carreira atuei na gestão financeira e administrativa de empresas de tecnologia, trabalhando diariamente com indicadores, relatórios gerenciais, planejamento financeiro, análise de resultados, controle de custos e apoio à tomada de decisão.
+Atuo há mais de 12 anos nas áreas Financeira e Administrativa, com experiência em planejamento financeiro, controle de custos, gestão orçamentária, indicadores de desempenho (KPIs), elaboração de relatórios gerenciais e apoio à tomada de decisão.
 
-Hoje estou realizando minha transição para a área de **Análise de Dados**, unindo minha experiência de negócio ao desenvolvimento de habilidades técnicas em **Python**, **SQL** e ferramentas de análise de dados.
+Atualmente estou ampliando minha formação por meio de um curso de **Análise de Dados**, aprofundando conhecimentos em **Python**, **SQL** e ferramentas analíticas. Meu objetivo é aplicar essas competências para automatizar processos, extrair insights relevantes e contribuir para decisões mais estratégicas e orientadas por dados.
 
-Acredito que entender o negócio é tão importante quanto dominar a tecnologia. Meu objetivo é transformar dados em informações que gerem valor para empresas e pessoas.
+Acredito que unir conhecimento de negócio com tecnologia é um diferencial para criar soluções mais eficientes, melhorar processos e gerar valor para as organizações.
 
 ---
 
 # 💼 O que você encontrará neste GitHub
 
-Este repositório representa minha evolução na área de Dados e reúne projetos desenvolvidos durante meus estudos e desafios práticos.
+Este GitHub reúne projetos desenvolvidos durante minha formação em Análise de Dados, além de aplicações práticas voltadas à automação, análise de informações e resolução de problemas.
 
-Aqui você encontrará:
+Aqui você encontrará projetos envolvendo:
 
-- 🐍 Projetos em Python
+- 🐍 Python
 - 📊 Análise Exploratória de Dados (EDA)
-- 📈 Dashboards
 - 🗃️ SQL
-- 📉 Visualização de Dados
-- 📚 Estudos e desafios
-- 🚀 Projetos aplicados a problemas reais
-
-Cada projeto representa um passo da minha jornada profissional.
+- 📈 Dashboards e Visualização de Dados
+- 🔄 Automação de Processos
+- 📚 Estudos, exercícios e desafios
+- 🚀 Projetos aplicados a cenários reais
 
 ---
 
@@ -42,19 +40,27 @@ Cada projeto representa um passo da minha jornada profissional.
 
 🎓 Pós-graduação em Custos e Finanças
 
+🎓 Pós-graduação em Controladoria e Finanças
+
 ---
 
 # 📚 Atualmente estudando
+
+🎓 Formação em Análise de Dados
+
+Durante essa formação, venho aprofundando conhecimentos em:
 
 - 🐍 Python
 - 🐼 Pandas
 - 🔢 NumPy
 - 🗃️ SQL
 - 🐘 PostgreSQL
-- 📊 Estatística
+- 📊 Estatística Aplicada
 - 📈 Visualização de Dados
 - 🔄 ETL
 - 📉 Business Intelligence (BI)
+- 🤖 Automação de Processos
+- 🌱 Git e GitHub
 
 ---
 
@@ -69,55 +75,50 @@ Cada projeto representa um passo da minha jornada profissional.
 
 ---
 
-# 💡 Minha experiência agrega valor em
+# 💡 Principais competências
 
-✔️ Análise Financeira
+✔️ Planejamento e Controle Financeiro
+
+✔️ Controladoria
+
+✔️ Gestão Orçamentária
 
 ✔️ Indicadores de Performance (KPIs)
 
-✔️ Planejamento Financeiro
-
-✔️ Controle de Custos
+✔️ Análise Financeira
 
 ✔️ Business Intelligence
 
-✔️ Processos Administrativos
+✔️ Análise de Dados
 
-✔️ Resolução de Problemas
+✔️ Automação de Processos com Python
 
-✔️ Automação de Processos
+✔️ Relatórios Gerenciais
 
 ✔️ Tomada de decisão baseada em dados
 
 ---
 
-# 🎯 Objetivos
+# 🎯 Objetivo deste GitHub
 
-Meu objetivo é construir uma carreira sólida em **Data Analytics**, aplicando dados para resolver problemas reais e gerar valor para o negócio.
-
-Atualmente busco oportunidades para atuar como:
-
-- 📊 Analista de Dados
-- 📈 Business Analyst
-- 📉 BI Analyst
-- 🐍 Analista de Dados Python
+Este espaço foi criado para documentar minha evolução técnica e compartilhar projetos desenvolvidos ao longo da minha formação em Análise de Dados. Meu objetivo é demonstrar como Python, SQL e ferramentas analíticas podem ser aplicados para automatizar processos, analisar informações e apoiar decisões mais eficientes no contexto financeiro e empresarial.
 
 ---
 
-# 🌱 Além dos dados...
+# 🌱 Além da profissão...
 
-🐾 Mãe de pet ❤️
+🐾 Apaixonada por animais ( 🐾 Mãe de pet ❤️).
 
-⛺ Apaixonada por acampamentos, trilhas e contato com a natureza.
+⛺ Gosto de acampamentos, trilhas e contato com a natureza.
 
-📚 Gosto de aprender continuamente e acredito que o conhecimento transforma carreiras.
+📚 Acredito no aprendizado contínuo e estou sempre em busca de novos conhecimentos.
 
-☕ Sempre pronta para um novo desafio.
+☕ Sempre pronta para aprender, compartilhar experiências e enfrentar novos desafios.
 
 ---
 
 # 📫 Vamos nos conectar!
 
-Se você também gosta de Dados, Python, Tecnologia ou Gestão, fique à vontade para explorar meus projetos.
+Se você se interessa por Finanças, Análise de Dados, Automação ou Tecnologia, fique à vontade para explorar meus projetos e trocar experiências.
 
 ⭐ Obrigada pela visita!
